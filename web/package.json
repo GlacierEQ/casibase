@@ -27,7 +27,7 @@
     "copy-to-clipboard": "^3.3.1",
     "craco-less": "2.0.0",
     "d3-force": "^3.0.0",
-    "dompurify": "^3.2.4",
+    "dompurify": "^3.4.0",
     "echarts": "^5.4.2",
     "echarts-for-react": "^3.0.2",
     "echarts-wordcloud": "^2.1.0",
